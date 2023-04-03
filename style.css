@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(185, 130, 236);
+  margin: 0px;
+  padding: 0px;
+}
+.container {
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  margin: 150px;
+  margin-left: 200px;
+  height: auto;
+  width: 40%;
+  border: 2px solid transparent;
+  box-shadow: 10px 10px 5px rgb(46, 78, 88);
+  padding: 20px;
+  background-color: aliceblue;
+}
+h3 {
+  margin-top: 10px;
+  margin-bottom: 40px;
+  color: rgb(159, 161, 161);
+  text-shadow: 0px 1px black;
+}
+.btn {
+  background-color: rgb(201, 153, 245);
+  border: 1px solid transparent;
+  margin: 10px;
+  margin-top: 40px;
+  padding: 9px;
+  border-radius: 5px;
+  color: white;
+}
+.joke {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
